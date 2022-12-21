@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mery9
+- 👋 Hi, I’m @mery9 (Kantinan Boonyingsathit)
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on easy thing really
