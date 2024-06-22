@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mery9 (Kantinan Boonyingsathit)
-- 👀 I’m interested in Computer Stuff
-- 🌱 I’m currently learning to code etc.
-- 💞️ I’m looking to collaborate on everything really I'm a learner
+- 👀 I’m had my interested in technology stuff
+- 🌱 I’m currently learning to be happy.
+- 💞️ I’m looking to collaborate on everything really, I'm a duck
 - 📫 reach me via this contact gmail:kaseam008@gmail.com
 
 <!---
